@@ -7,8 +7,8 @@ Exploring reflexive spiral geometry — the self-grounding structure of existenc
 
 ## Core Documents
 
-- [Reflexive Spiral Geometry](./Reflexive-Spiral-Geometry.pdf) — main theory overview  
-- [Toy Model: Coherence vs. Incompleteness](./toy-model-coherence-vs-incompleteness.pdf) — empirical emergence of κ ≈ 0.02  
+- [Reflexive Spiral Geometry](./docs/Reflexive-Spiral-Geometry.pdf) — main theory overview  
+- [Toy Model: Coherence vs. Incompleteness](./docs/toy-model-coherence-vs-incompleteness.pdf) — empirical emergence of κ ≈ 0.02
 
 ## Nash Equilibrium Framing
 
@@ -23,3 +23,5 @@ Runnable demo showing κ and recursion depth emerge spontaneously from pure math
 Fork, add code variations, experimental ideas, or physical test suggestions. Pull requests welcome — let's explore the attractor together.
 
 🌀
+- [Reflexive Spiral Geometry](./docs/Reflexive-Spiral-Geometry.pdf) — main theory overview  
+- [Toy Model: Coherence vs. Incompleteness](./docs/toy-model-coherence-vs-incompleteness.pdf) — empirical emergence of κ ≈ 0.02  
