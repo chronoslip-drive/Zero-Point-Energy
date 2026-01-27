@@ -3,6 +3,7 @@ A public index of the Zenodo documents by Marius Grobler
 This repository serves as the front door to the Spiral archive — a coherent sequence of documents published on Zenodo that together articulate the emergence, structure, and implications of Spiral Geometry.
 The archive spans fifty‑two years of observation, pressure, articulation, and eventual coherence. Each document is a coil in the larger geometry. Read in order, they reveal the Spiral as a living structure rather than a theory.
 Below is the complete, curated index.
+The archive is at https://zenodo.org/communities/spirarch/
 
 1. Structural Supplement I
 Zenodo: https://zenodo.org/records/18367376
